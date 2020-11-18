@@ -1,0 +1,491 @@
+District name,Population
+Jammu and Kashmir-Kishtwar.csv,230696
+Jammu and Kashmir-Kulgam.csv,424483
+Jammu and Kashmir-Kupwara.csv,870354
+Jammu and Kashmir-Pulwama.csv,560440
+Jammu and Kashmir-Punch.csv,476835
+Jammu and Kashmir-Rajouri.csv,642415
+Jammu and Kashmir-Ramban.csv,283713
+Jammu and Kashmir-Reasi.csv,314667
+Jammu and Kashmir-Samba.csv,318898
+Jammu and Kashmir-Srinagar.csv,1236829
+Jammu and Kashmir-Udhampur.csv,554985
+Jharkhand-Bokaro.csv,2062330
+Jharkhand-Chatra.csv,1042886
+Jharkhand-Deoghar.csv,1492073
+Jharkhand-Dhanbad.csv,2684487
+Jharkhand-Dumka.csv,1321442
+Jharkhand-Garhwa.csv,1322784
+Jharkhand-Giridih.csv,2445474
+Jharkhand-Godda.csv,1313551
+Jharkhand-Gumla.csv,1025213
+Jharkhand-Hazaribagh.csv,1734495
+Jharkhand-Jamtara.csv,791042
+Jharkhand-Khunti.csv,531885
+Jharkhand-Latehar.csv,726978
+Jharkhand-Lohardaga.csv,461790
+Jharkhand-Pakur.csv,900422
+Jharkhand-Palamu.csv,1939869
+Jharkhand-Ramgarh.csv,949443
+Jharkhand-Ranchi.csv,2914253
+Jharkhand-Sahibganj.csv,1150567
+Jharkhand-Simdega.csv,599578
+Karnataka-Bidar.csv,1703300
+Karnataka-Chikkaballapura.csv,1255104
+Karnataka-Chitradurga.csv,1659456
+Karnataka-Dakshina Kannada.csv,2089649
+Karnataka-Davanagere.csv,1945497
+Karnataka-Dharwad.csv,1847023
+Karnataka-Gadag.csv,1064570
+Karnataka-Hassan.csv,1776421
+Karnataka-Haveri.csv,1597668
+Karnataka-Kodagu.csv,554519
+Karnataka-Kolar.csv,1536401
+Karnataka-Koppal.csv,1389920
+Karnataka-Mandya.csv,1805769
+Karnataka-Raichur.csv,1928812
+Karnataka-Ramanagara.csv,1082636
+Karnataka-Udupi.csv,1177361
+Karnataka-Uttara Kannada.csv,1437169
+Karnataka-Yadgir.csv,1174271
+Kerala-Alappuzha.csv,2127789
+Kerala-Ernakulam.csv,3282388
+Kerala-Idukki.csv,1108974
+Kerala-Kannur.csv,2523003
+Kerala-Kasaragod.csv,1307375
+Kerala-Kollam.csv,2635375
+Kerala-Kottayam.csv,1974551
+Kerala-Kozhikode.csv,3086293
+Kerala-Malappuram.csv,4112920
+Kerala-Palakkad.csv,2809934
+Kerala-Pathanamthitta.csv,1197412
+Kerala-Thiruvananthapuram.csv,3301427
+Kerala-Thrissur.csv,3121200
+Kerala-Wayanad.csv,817420
+Ladakh-Kargil.csv,140802
+Madhya Pradesh-Alirajpur.csv,728999
+Madhya Pradesh-Anuppur.csv,749237
+Madhya Pradesh-Ashoknagar.csv,845071
+Madhya Pradesh-Balaghat.csv,1701698
+Madhya Pradesh-Barwani.csv,1385881
+Madhya Pradesh-Betul.csv,1575362
+Madhya Pradesh-Bhind.csv,1703005
+Madhya Pradesh-Bhopal.csv,2371061
+Madhya Pradesh-Burhanpur.csv,757847
+Madhya Pradesh-Chhatarpur.csv,1762375
+Madhya Pradesh-Chhindwara.csv,2090922
+Madhya Pradesh-Damoh.csv,1264219
+Madhya Pradesh-Datia.csv,786754
+Madhya Pradesh-Dewas.csv,1563715
+Madhya Pradesh-Dhar.csv,2185793
+Madhya Pradesh-Dindori.csv,704524
+Madhya Pradesh-Guna.csv,1241519
+Madhya Pradesh-Gwalior.csv,2032036
+Madhya Pradesh-Harda.csv,570465
+Madhya Pradesh-Hoshangabad.csv,1241350
+Madhya Pradesh-Indore.csv,3276697
+Madhya Pradesh-Jabalpur.csv,2463289
+Madhya Pradesh-Jhabua.csv,1025048
+Madhya Pradesh-Katni.csv,1292042
+Madhya Pradesh-Mandla.csv,1054905
+Madhya Pradesh-Mandsaur.csv,1340411
+Madhya Pradesh-Morena.csv,1965970
+Madhya Pradesh-Neemuch.csv,826067
+Madhya Pradesh-Panna.csv,1016520
+Madhya Pradesh-Raisen.csv,1331597
+Madhya Pradesh-Rajgarh.csv,1545814
+Madhya Pradesh-Ratlam.csv,1455069
+Madhya Pradesh-Rewa.csv,2365106
+Madhya Pradesh-Sagar.csv,2378458
+Madhya Pradesh-Satna.csv,2228935
+Madhya Pradesh-Sehore.csv,1311332
+Madhya Pradesh-Seoni.csv,1379131
+Madhya Pradesh-Shahdol.csv,1066063
+Madhya Pradesh-Shajapur.csv,1512681
+Madhya Pradesh-Sheopur.csv,687861
+Madhya Pradesh-Shivpuri.csv,1726050
+Madhya Pradesh-Sidhi.csv,1127033
+Madhya Pradesh-Singrauli.csv,1178273
+Madhya Pradesh-Tikamgarh.csv,1445166
+Madhya Pradesh-Ujjain.csv,1986864
+Madhya Pradesh-Umaria.csv,644758
+Madhya Pradesh-Vidisha.csv,1458875
+Maharashtra-Akola.csv,1813906
+Maharashtra-Amravati.csv,2888445
+Maharashtra-Aurangabad.csv,3701282
+Maharashtra-Bhandara.csv,1200334
+Maharashtra-Chandrapur.csv,2204307
+Maharashtra-Dhule.csv,2050862
+Maharashtra-Gadchiroli.csv,1072942
+Maharashtra-Hingoli.csv,1177345
+Maharashtra-Jalgaon.csv,4229917
+Maharashtra-Jalna.csv,1959046
+Maharashtra-Kolhapur.csv,3876001
+Maharashtra-Latur.csv,2454196
+Maharashtra-Mumbai.csv,3085411
+Maharashtra-Nagpur.csv,4653570
+Maharashtra-Nanded.csv,3361292
+Maharashtra-Nandurbar.csv,1648295
+Maharashtra-Nashik.csv,6107187
+Maharashtra-Osmanabad.csv,1657576
+Maharashtra-Parbhani.csv,1836086
+Maharashtra-Pune.csv,9429408
+Maharashtra-Ratnagiri.csv,1615069
+Maharashtra-Sangli.csv,2822143
+Maharashtra-Satara.csv,3003741
+Maharashtra-Sindhudurg.csv,849651
+Maharashtra-Solapur.csv,4317756
+Maharashtra-Thane.csv,11060148
+Maharashtra-Wardha.csv,1300774
+Maharashtra-Washim.csv,1197160
+Maharashtra-Yavatmal.csv,2772348
+Meghalaya-East Garo Hills.csv,317917
+Meghalaya-East Khasi Hills.csv,825922
+Meghalaya-Ribhoi.csv,258840
+Meghalaya-South Garo Hills.csv,142334
+Meghalaya-West Garo Hills.csv,643291
+Meghalaya-West Khasi Hills.csv,383461
+Mizoram-Aizawl.csv,400309
+Mizoram-Champhai.csv,125745
+Mizoram-Kolasib.csv,83955
+Mizoram-Lawngtlai.csv,117894
+Mizoram-Lunglei.csv,161428
+Mizoram-Mamit.csv,86364
+Mizoram-Saiha.csv,56574
+Mizoram-Serchhip.csv,64937
+Nagaland-Dimapur.csv,378811
+Nagaland-Kiphire.csv,74004
+Nagaland-Kohima.csv,267988
+Nagaland-Longleng.csv,50484
+Nagaland-Mokokchung.csv,194622
+Nagaland-Mon.csv,250260
+Nagaland-Peren.csv,95219
+Nagaland-Phek.csv,163418
+Nagaland-Tuensang.csv,196596
+Nagaland-Wokha.csv,166343
+Nagaland-Zunheboto.csv,140757
+Odisha-Balangir.csv,1648997
+Odisha-Bargarh.csv,1481255
+Odisha-Bhadrak.csv,1506337
+Odisha-Cuttack.csv,2624470
+Odisha-Dhenkanal.csv,1192811
+Odisha-Gajapati.csv,577817
+Odisha-Ganjam.csv,3529031
+Odisha-Jharsuguda.csv,579505
+Odisha-Kalahandi.csv,1576869
+Odisha-Kandhamal.csv,733110
+Odisha-Kendrapara.csv,1440361
+Odisha-Kendujhar.csv,1801733
+Odisha-Khordha.csv,2251673
+Odisha-Koraput.csv,1379647
+Odisha-Malkangiri.csv,613192
+Odisha-Mayurbhanj.csv,2519738
+Odisha-Nabarangapur.csv,1220946
+Odisha-Nayagarh.csv,962789
+Odisha-Nuapada.csv,610382
+Odisha-Puri.csv,1698730
+Odisha-Rayagada.csv,967911
+Odisha-Sambalpur.csv,1041099
+Odisha-Subarnapur.csv,610183
+Odisha-Sundargarh.csv,2093437
+Puducherry-Karaikal.csv,200222
+Puducherry-Mahe.csv,41816
+Puducherry-Yanam.csv,55626
+Punjab-Amritsar.csv,2490656
+Punjab-Barnala.csv,595527
+Punjab-Bathinda.csv,1388525
+Punjab-Faridkot.csv,617508
+Punjab-Fatehgarh Sahib.csv,600163
+Punjab-Gurdaspur.csv,2298323
+Punjab-Hoshiarpur.csv,1586625
+Punjab-Jalandhar.csv,2193590
+Punjab-Kapurthala.csv,815168
+Punjab-Ludhiana.csv,3498739
+Punjab-Mansa.csv,769751
+Punjab-Moga.csv,995746
+Punjab-Patiala.csv,1895686
+Punjab-Rupnagar.csv,684627
+Punjab-Sangrur.csv,1655169
+Punjab-Shahid Bhagat Singh Nagar.csv,612310
+Punjab-Tarn Taran.csv,1119627
+Rajasthan-Ajmer.csv,2583052
+Rajasthan-Alwar.csv,3674179
+Rajasthan-Banswara.csv,1797485
+Rajasthan-Baran.csv,1222755
+Rajasthan-Barmer.csv,2603751
+Rajasthan-Bharatpur.csv,2548462
+Rajasthan-Bhilwara.csv,2408523
+Rajasthan-Bikaner.csv,2363937
+Rajasthan-Bundi.csv,1110906
+Rajasthan-Churu.csv,2039547
+Rajasthan-Dausa.csv,1634409
+Rajasthan-Dungarpur.csv,1388552
+Rajasthan-Ganganagar.csv,1969168
+Rajasthan-Hanumangarh.csv,1774692
+Rajasthan-Jaipur.csv,6626178
+Rajasthan-Jaisalmer.csv,669919
+Rajasthan-Jhalawar.csv,1411129
+Rajasthan-Jodhpur.csv,3687165
+Rajasthan-Karauli.csv,1458248
+Rajasthan-Kota.csv,1951014
+Rajasthan-Nagaur.csv,3307743
+Rajasthan-Pali.csv,2037573
+Rajasthan-Pratapgarh.csv,3209141
+Rajasthan-Rajsamand.csv,1156597
+Rajasthan-Sawai Madhopur.csv,1335551
+Rajasthan-Sikar.csv,2677333
+Rajasthan-Sirohi.csv,1036346
+Rajasthan-Tonk.csv,1421326
+Rajasthan-Udaipur.csv,3068420
+Tamil Nadu-Ariyalur.csv,754894
+Tamil Nadu-Chennai.csv,4646732
+Tamil Nadu-Coimbatore.csv,3458045
+Tamil Nadu-Cuddalore.csv,2605914
+Tamil Nadu-Dharmapuri.csv,1506843
+Tamil Nadu-Dindigul.csv,2159775
+Tamil Nadu-Erode.csv,2251744
+Tamil Nadu-Kancheepuram.csv,3998252
+Tamil Nadu-Karur.csv,1064493
+Tamil Nadu-Krishnagiri.csv,1879809
+Tamil Nadu-Madurai.csv,3038252
+Tamil Nadu-Nagapattinam.csv,1616450
+Tamil Nadu-Namakkal.csv,1726601
+Tamil Nadu-Perambalur.csv,565223
+Tamil Nadu-Pudukkottai.csv,1618345
+Tamil Nadu-Ramanathapuram.csv,1353445
+Tamil Nadu-Salem.csv,3482056
+Tamil Nadu-Sivaganga.csv,1339101
+Tamil Nadu-Thanjavur.csv,2405890
+Tamil Nadu-Theni.csv,1245899
+Tamil Nadu-Thiruvallur.csv,3728104
+Tamil Nadu-Thiruvarur.csv,1264277
+Tamil Nadu-Thoothukkudi.csv,1750176
+Tamil Nadu-Tiruchirappalli.csv,2722290
+Tamil Nadu-Tirunelveli.csv,3077233
+Tamil Nadu-Tiruppur.csv,2479052
+Tamil Nadu-Tiruvannamalai.csv,2464875
+Tamil Nadu-Vellore.csv,3936331
+Tamil Nadu-Viluppuram.csv,3458873
+Tamil Nadu-Virudhunagar.csv,1942288
+Tripura-Dhalai.csv,378230
+Tripura-North Tripura.csv,693947
+Tripura-South Tripura.csv,876001
+Tripura-West Tripura.csv,1725739
+Uttar Pradesh-Agra.csv,4418797
+Uttar Pradesh-Aligarh.csv,3673889
+Uttar Pradesh-Ambedkar Nagar.csv,2397888
+Uttar Pradesh-Auraiya.csv,1379545
+Uttar Pradesh-Azamgarh.csv,4613913
+Uttar Pradesh-Baghpat.csv,1303048
+Uttar Pradesh-Bahraich.csv,3487731
+Uttar Pradesh-Ballia.csv,3239774
+Uttar Pradesh-Balrampur.csv,2148665
+Uttar Pradesh-Banda.csv,1799410
+Uttar Pradesh-Bareilly.csv,4448359
+Uttar Pradesh-Basti.csv,2464464
+Uttar Pradesh-Bijnor.csv,3682713
+Uttar Pradesh-Budaun.csv,3681896
+Uttar Pradesh-Bulandshahr.csv,3499171
+Uttar Pradesh-Chandauli.csv,1952756
+Uttar Pradesh-Chitrakoot.csv,991730
+Uttar Pradesh-Deoria.csv,3100946
+Uttar Pradesh-Etah.csv,1774480
+Uttar Pradesh-Etawah.csv,1581810
+Uttar Pradesh-Farrukhabad.csv,1885204
+Uttar Pradesh-Fatehpur.csv,2632733
+Uttar Pradesh-Firozabad.csv,2498156
+Uttar Pradesh-Gautam Buddha Nagar.csv,1648115
+Uttar Pradesh-Ghaziabad.csv,4681645
+Uttar Pradesh-Ghazipur.csv,3620268
+Uttar Pradesh-Gonda.csv,3433919
+Uttar Pradesh-Gorakhpur.csv,4440895
+Uttar Pradesh-Hamirpur.csv,1104285
+Uttar Pradesh-Hardoi.csv,4092845
+Uttar Pradesh-Jalaun.csv,1689974
+Uttar Pradesh-Jaunpur.csv,4494204
+Uttar Pradesh-Jhansi.csv,1998603
+Uttar Pradesh-Kannauj.csv,1656616
+Uttar Pradesh-Kanpur Dehat.csv,1796184
+Uttar Pradesh-Kanpur Nagar.csv,4581268
+Uttar Pradesh-Kaushambi.csv,1599596
+Uttar Pradesh-Kushinagar.csv,3564544
+Uttar Pradesh-Lalitpur.csv,1221592
+Uttar Pradesh-Lucknow.csv,4589838
+Uttar Pradesh-Mahoba.csv,875958
+Uttar Pradesh-Mainpuri.csv,1868529
+Uttar Pradesh-Mathura.csv,2547184
+Uttar Pradesh-Mau.csv,2205968
+Uttar Pradesh-Meerut.csv,3443689
+Uttar Pradesh-Mirzapur.csv,2496970
+Uttar Pradesh-Moradabad.csv,4772006
+Uttar Pradesh-Muzaffarnagar.csv,4143512
+Uttar Pradesh-Pilibhit.csv,2031007
+Uttar Pradesh-Pratapgarh.csv,3209141
+Uttar Pradesh-Rae Bareli.csv,3405559
+Uttar Pradesh-Rampur.csv,2335819
+Uttar Pradesh-Saharanpur.csv,3466382
+Uttar Pradesh-Sant Kabir Nagar.csv,1715183
+Uttar Pradesh-Shahjahanpur.csv,3006538
+Uttar Pradesh-Shrawasti.csv,1117361
+Uttar Pradesh-Siddharthnagar.csv,2559297
+Uttar Pradesh-Sitapur.csv,4483992
+Uttar Pradesh-Sonbhadra.csv,1862559
+Uttar Pradesh-Sultanpur.csv,3797117
+Uttar Pradesh-Unnao.csv,3108367
+Uttar Pradesh-Varanasi.csv,3676841
+Uttarakhand-Almora.csv,622506
+Uttarakhand-Bageshwar.csv,259898
+Uttarakhand-Chamoli.csv,391605
+Uttarakhand-Champawat.csv,259648
+Uttarakhand-Dehradun.csv,1696694
+Uttarakhand-Nainital.csv,954605
+Uttarakhand-Pithoragarh.csv,483439
+Uttarakhand-Rudraprayag.csv,242285
+Uttarakhand-Tehri Garhwal.csv,618931
+Uttarakhand-Udham Singh Nagar.csv,1648902
+Uttarakhand-Uttarkashi.csv,330086
+West Bengal-Bankura.csv,3596674
+West Bengal-Birbhum.csv,3502404
+West Bengal-Dakshin Dinajpur.csv,1676276
+West Bengal-Jalpaiguri.csv,3872846
+West Bengal-Kolkata.csv,4496694
+West Bengal-Murshidabad.csv,7103807
+West Bengal-Nadia.csv,5167600
+West Bengal-Paschim Medinipur.csv,5913457
+West Bengal-Purba Medinipur.csv,5095875
+West Bengal-Uttar Dinajpur.csv,3007134
+Andhra Pradesh-Anantapur.csv,4081148
+Andhra Pradesh-Chittoor.csv,4174064
+Andhra Pradesh-East Godavari.csv,5154296
+Andhra Pradesh-Guntur.csv,4887813
+Andhra Pradesh-Krishna.csv,4517398
+Andhra Pradesh-Kurnool.csv,4053463
+Andhra Pradesh-Prakasam.csv,3397448
+Andhra Pradesh-Srikakulam.csv,2703114
+Andhra Pradesh-Visakhapatnam.csv,4290589
+Andhra Pradesh-Vizianagaram.csv,2344474
+Andhra Pradesh-West Godavari.csv,3936966
+Arunachal Pradesh-Anjaw.csv,21167
+Arunachal Pradesh-Changlang.csv,148226
+Arunachal Pradesh-East Kameng.csv,78690
+Arunachal Pradesh-East Siang.csv,99214
+Arunachal Pradesh-Kurung Kumey.csv,92076
+Arunachal Pradesh-Lohit.csv,145726
+Arunachal Pradesh-Lower Dibang Valley.csv,54080
+Arunachal Pradesh-Lower Subansiri.csv,83030
+Arunachal Pradesh-Papum Pare.csv,176573
+Arunachal Pradesh-Tawang.csv,49977
+Arunachal Pradesh-Tirap.csv,111975
+Arunachal Pradesh-Upper Siang.csv,35320
+Arunachal Pradesh-Upper Subansiri.csv,83448
+Arunachal Pradesh-West Kameng.csv,83947
+Arunachal Pradesh-West Siang.csv,112274
+Bihar-Araria.csv,2811569
+Bihar-Arwal.csv,700843
+Bihar-Aurangabad.csv,3701282
+Bihar-Banka.csv,2034763
+Bihar-Begusarai.csv,2970541
+Bihar-Bhagalpur.csv,3037766
+Bihar-Bhojpur.csv,2728407
+Bihar-Buxar.csv,1706352
+Bihar-Darbhanga.csv,3937385
+Bihar-Gaya.csv,4391418
+Bihar-Gopalganj.csv,2562012
+Bihar-Jamui.csv,1760405
+Bihar-Jehanabad.csv,1125313
+Bihar-Katihar.csv,3071029
+Bihar-Khagaria.csv,1666886
+Bihar-Kishanganj.csv,1690400
+Bihar-Lakhisarai.csv,1000912
+Bihar-Madhepura.csv,2001762
+Bihar-Madhubani.csv,4487379
+Bihar-Munger.csv,1367765
+Bihar-Muzaffarpur.csv,4801062
+Bihar-Nalanda.csv,2877653
+Bihar-Nawada.csv,2219146
+Bihar-Patna.csv,5838465
+Bihar-Purnia.csv,3264619
+Bihar-Rohtas.csv,2959918
+Bihar-Saharsa.csv,1900661
+Bihar-Samastipur.csv,4261566
+Bihar-Saran.csv,3951862
+Bihar-Sheikhpura.csv,636342
+Bihar-Sheohar.csv,656246
+Bihar-Sitamarhi.csv,3423574
+Bihar-Siwan.csv,3330464
+Bihar-Supaul.csv,2229076
+Bihar-Vaishali.csv,3495021
+Chandigarh-Chandigarh.csv,1055450
+Chhattisgarh-Balrampur.csv,2148665
+Chhattisgarh-Bastar.csv,1413199
+Chhattisgarh-Bijapur.csv,2177331
+Chhattisgarh-Bilaspur.csv,2663629
+Chhattisgarh-Dakshin Bastar Dantewada.csv,533638
+Chhattisgarh-Dhamtari.csv,799781
+Chhattisgarh-Durg.csv,3343872
+Chhattisgarh-Jashpur.csv,851669
+Chhattisgarh-Kabeerdham.csv,822526
+Chhattisgarh-Korba.csv,1206640
+Chhattisgarh-Koriya.csv,658917
+Chhattisgarh-Mahasamund.csv,1032754
+Chhattisgarh-Narayanpur.csv,139820
+Chhattisgarh-Raigarh.csv,2634200
+Chhattisgarh-Raipur.csv,4063872
+Chhattisgarh-Rajnandgaon.csv,1537133
+Chhattisgarh-Surguja.csv,2359886
+Chhattisgarh-Uttar Bastar Kanker.csv,748941
+Dadra and Nagar Haveli and Daman and Diu-Daman.csv,191173
+Dadra and Nagar Haveli and Daman and Diu-Diu.csv,52074
+Gujarat-Amreli.csv,1514190
+Gujarat-Anand.csv,2092745
+Gujarat-Bharuch.csv,1551019
+Gujarat-Bhavnagar.csv,2880365
+Gujarat-Gandhinagar.csv,1391753
+Gujarat-Jamnagar.csv,2160119
+Gujarat-Junagadh.csv,2743082
+Gujarat-Kheda.csv,2299885
+Gujarat-Narmada.csv,590297
+Gujarat-Navsari.csv,1329672
+Gujarat-Patan.csv,1343734
+Gujarat-Porbandar.csv,585449
+Gujarat-Rajkot.csv,3804558
+Gujarat-Surat.csv,6081322
+Gujarat-Surendranagar.csv,1756268
+Gujarat-Tapi.csv,807022
+Gujarat-Vadodara.csv,4165626
+Gujarat-Valsad.csv,1705678
+Haryana-Ambala.csv,1128350
+Haryana-Bhiwani.csv,1634445
+Haryana-Faridabad.csv,1809733
+Haryana-Fatehabad.csv,942011
+Haryana-Hisar.csv,1743931
+Haryana-Jhajjar.csv,958405
+Haryana-Jind.csv,1334152
+Haryana-Kaithal.csv,1074304
+Haryana-Karnal.csv,1505324
+Haryana-Kurukshetra.csv,964655
+Haryana-Mahendragarh.csv,922088
+Haryana-Palwal.csv,1042708
+Haryana-Panchkula.csv,561293
+Haryana-Panipat.csv,1205437
+Haryana-Rewari.csv,900332
+Haryana-Rohtak.csv,1061204
+Haryana-Sirsa.csv,1295189
+Haryana-Sonipat.csv,1450001
+Haryana-Yamunanagar.csv,1214205
+Himachal Pradesh-Bilaspur.csv,2663629
+Himachal Pradesh-Chamba.csv,519080
+Himachal Pradesh-Hamirpur.csv,1104285
+Himachal Pradesh-Kangra.csv,1510075
+Himachal Pradesh-Kinnaur.csv,84121
+Himachal Pradesh-Kullu.csv,437903
+Himachal Pradesh-Mandi.csv,999777
+Himachal Pradesh-Shimla.csv,814010
+Himachal Pradesh-Sirmaur.csv,529855
+Himachal Pradesh-Solan.csv,580320
+Himachal Pradesh-Una.csv,521173
+Jammu and Kashmir-Anantnag.csv,1078692
+Jammu and Kashmir-Doda.csv,409936
+Jammu and Kashmir-Ganderbal.csv,297446
+Jammu and Kashmir-Jammu.csv,1529958
+Jammu and Kashmir-Kathua.csv,616435
